@@ -1,4 +1,4 @@
-# ModelamientoDeSofware
+# Metodos Formales De Software
 
 El repositorio MetodosFormalesSoftware:
 
