@@ -36,15 +36,15 @@ COMPROMISOS DEL TEAM OASIS PARA DESAROLLO Y EXITO DEL PROYECTO
 
 #CONTACTO:
 
-Omar Cuadrado- Lider De Proyecto Y Soporte De Software - omar-cuadrado@upc.edu.co
+Omar Cuadrado- Lider De Planeacion Y Soporte De Software - omar-cuadrado@upc.edu.co
 
-Samuel Rodriguez- Lider De Soporte  -samuel-rodriguez2@upc.edu.co
+Samuel Rodriguez- Administrador de Planeacion  -samuel-rodriguez2@upc.edu.co
 
-Camilo Rodriguez - Lider De Gestion -camilo-rodriguez3@upc.edu.co
+Camilo Rodriguez - Lider De Desarollo -camilo-rodriguez3@upc.edu.co
 
-Hector Masmela- Lider De Calidad -hector-franco@upc.edu.co
+Hector Masmela- Administrador De Soporte -hector-franco@upc.edu.co
 
-Cristian Forero  - Lider De algo -cristian-forero@upc.edu.co
+Cristian Forero  - Lider De Equipo -cristian-forero@upc.edu.co
 
-Kevin Ore  - Lider De Desarollo -kevin-ore@upc.edu.co
+Kevin Ore  - Desarrollador de Arquitectura -kevin-ore@upc.edu.co
 
