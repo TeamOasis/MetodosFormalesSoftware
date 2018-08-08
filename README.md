@@ -1,8 +1,8 @@
-# Metodos Formales De Software - OASIS
+# Métodos Formales en construcción de Software - OASIS
 
 El repositorio MetodosFormalesSoftware:
 
-Es creado con la finalidad de que los integrantes del grupo OASIS de la Asignatura "METODOS FORMALES EN CONSTRUCCION DE SOFTWARE" impartida por el docente GILBERTO PEDRAZA tengan un página de gestión del proyecto donde se pueda:
+Es creado con la finalidad de que los integrantes del grupo OASIS de la Asignatura "MÉTODOS FORMALES EN CONSTRUCCIÍN DE SOFTWARE" impartida por el docente GILBERTO PEDRAZA tengan un página de gestión del proyecto donde se pueda:
 
 Dar Gestion (editar, subir  y descargar) las diferentes plantillas, código y actividades a lo largo del desarollo del proyecto, las cuales se irán actualizando cada semana o cada día si así se es requerido.
 
